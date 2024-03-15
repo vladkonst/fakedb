@@ -1,11 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "servers": [
+        {
+            "id": 1,
+            "title": "mirage 5x5"
+        },
+        {
+            "id": 2,
+            "title": "dust2 5x5"
+        },
+        {
+            "id": 3,
+            "title": "inferno 5x5"
+        }
+    ]
 }
